@@ -133,7 +133,7 @@ End of synchronisation
 Waiting signal ...
 ```
 
-global client output:
+Global client output:
 ```bash
 Syncronisation with server PID 17075 : Ok
 Sending lengh of chain 12 + 1: Ok
