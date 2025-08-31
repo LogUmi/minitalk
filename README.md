@@ -1,14 +1,14 @@
 
 <div align="center">
   <h2>minitalk - 42 project</h2>
-  <img src="./img/min italk.png"  />
+  <img src="./img/minitalk.png"  />
   <br>
 </div>
 
 ![Language](https://img.shields.io/badge/language-C-blue)
 ![Status](https://img.shields.io/badge/status-maintained-brightgreen)
 ![42](https://img.shields.io/badge/origin-42-black)
-![License](https://img.shields.io/badge/license-MIT-yellow)
+![Status](https://img.shields.io/badge/status-completed-brightgreen)
 
 > A small data exchange program using **UNIX signals**.  
 > The goal is to implement a client/server application where messages are transmitted **bit by bit** via `SIGUSR1` and `SIGUSR2`.
@@ -97,6 +97,7 @@ Hello World!
 .
 ├── img/                # Content for README
 ├── includes/           # Header files (.h)
+├── libft/				      # Authorized functions
 ├── srcs/               # Source code (.c)
 ├── Makefile
 └── README.md
