@@ -6,8 +6,8 @@
 </div>
 
 ![Language](https://img.shields.io/badge/language-C-blue)
-![Status](https://img.shields.io/badge/status-maintained-brightgreen)
-![42](https://img.shields.io/badge/origin-42-black)
+![Norminette](https://img.shields.io/badge/norminette-passed-brightgreen)
+![42](https://img.shields.io/badge/school-42-black)
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
 
 > A small data exchange program using **UNIX signals**.  
@@ -97,8 +97,9 @@ Hello World!
 .
 ├── img/                # Content for README
 ├── includes/           # Header files (.h)
-├── libft/				      # Authorized functions
+├── libft/				# Authorized functions
 ├── srcs/               # Source code (.c)
+├── licence.txt		    # License MIT
 ├── Makefile
 └── README.md
 ```
