@@ -1,6 +1,5 @@
-
 <div align="center">
-  <h2>minitalk - 42 project</h2>
+  <h1>minitalk - 42 project</h1>
   <img src="./img/minitalk.png"  />
   <br>
 </div>
@@ -99,7 +98,7 @@ Hello World!
 ├── includes/           # Header files (.h)
 ├── libft/				# Authorized functions
 ├── srcs/               # Source code (.c)
-├── LICENSE.txt		    # License MIT
+├── LICENSE			    # License MIT
 ├── Makefile
 └── README.md
 ```
@@ -159,7 +158,7 @@ Project developed by **Loïc Gérard** – 📧 Contact: lgerard@studend.42perpi
 ---
 
 ## 📜 License
-This project is licensed under the MIT License. You are free to use, modify, and distribute it.
+This project is licensed under the MIT License. You are free to use, modify, and distribute it - see the [LICENSE](./LICENSE) file for details.
 
 > ⚠️ **Note for students**  
 > If you are a student at 42 (or elsewhere), it is strongly recommended **not to copy/paste** this code.  
