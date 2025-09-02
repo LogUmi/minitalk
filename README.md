@@ -99,7 +99,7 @@ Hello World!
 ├── includes/           # Header files (.h)
 ├── libft/				# Authorized functions
 ├── srcs/               # Source code (.c)
-├── licence.txt		    # License MIT
+├── LICENSE.txt		    # License MIT
 ├── Makefile
 └── README.md
 ```
